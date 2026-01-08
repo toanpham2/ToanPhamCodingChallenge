@@ -1,0 +1,16 @@
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\bin\Debug\net10.0-windows\CodingChallengeWinForms.exe
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\bin\Debug\net10.0-windows\CodingChallengeWinForms.deps.json
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\bin\Debug\net10.0-windows\CodingChallengeWinForms.runtimeconfig.json
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\bin\Debug\net10.0-windows\CodingChallengeWinForms.dll
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\bin\Debug\net10.0-windows\CodingChallengeWinForms.pdb
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.Form1.resources
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.csproj.GenerateResource.cache
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.AssemblyInfoInputs.cache
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.AssemblyInfo.cs
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.dll
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\refint\CodingChallengeWinForms.dll
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.pdb
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\CodingChallengeWinForms.genruntimeconfig.cache
+C:\Users\Toan Pham\source\repos\CodingChallengeWinForms\CodingChallengeWinForms\obj\Debug\net10.0-windows\ref\CodingChallengeWinForms.dll
